@@ -11,8 +11,12 @@ Image Preprocessing techniques: Resizing(256, 256), fastNlMeansDenoisingColored 
 
 Result: 
 SVM - Accuracy: 0.90, Precision: 0.91, Recall: 0.90
+
 KNN - Accuracy: 0.92, Precision: 0.93, Recall: 0.82
+
 Neural Network - Accuracy: 0.65, Precision: 0.67, Recall: 0.65
+
+Base on the result of trained by 3 models, it shown Neural Network perform lower than other 2 models. There may have some issues considering like lack of data and image preprocessing method.
 
 
 ## Dataset link used google drive
