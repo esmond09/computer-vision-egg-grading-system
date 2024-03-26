@@ -1,4 +1,4 @@
-# machine-learning-egg-grading-system
+# Computer-Vision-egg-grading-system
 
 ## Description
 Main goal of Computer Vision is to let the system able to see things. Thus, in this research going to develop a vision-based classification system that should be able to classify different grades of eggs. This research can help to grade the eggs without manual grade classification by using image processing techniques.
