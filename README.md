@@ -5,6 +5,16 @@ Main goal of Computer Vision is to let the system able to see things. Thus, in t
 
 The objective of this research is to gain experience in applying image processing techniques to solve some bacis business problem. 
 
+Data Split:  90% for training and 10% for testing, employing a 10-fold cross-validation approach
+
+Image Preprocessing techniques: Resizing(256, 256), fastNlMeansDenoisingColored algorithm, Grayscale Conversion, Otsu's thresholding, Morphological "erosion"
+
+Result: 
+SVM - Accuracy: 0.90, Precision: 0.91, Recall: 0.90
+KNN - Accuracy: 0.92, Precision: 0.93, Recall: 0.82
+Neural Network - Accuracy: 0.65, Precision: 0.67, Recall: 0.65
+
+
 ## Dataset link used google drive
 https://drive.google.com/file/d/1nsfiLz5BFed0EjE7S2tUzOm7g9q404fh/view?usp=drive_link
 
