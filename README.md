@@ -9,6 +9,9 @@ Data Split:  90% for training and 10% for testing, employing a 10-fold cross-val
 
 Image Preprocessing techniques: Resizing(256, 256), fastNlMeansDenoisingColored algorithm, Grayscale Conversion, Otsu's thresholding, Morphological "erosion"
 
+![image](https://github.com/esmond09/computer-vision-egg-grading-system/assets/130723274/b53a2fe1-2f9c-4b07-9472-615e4149e1c2)
+
+
 Result: 
 SVM - Accuracy: 0.90, Precision: 0.91, Recall: 0.90
 
